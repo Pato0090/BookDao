@@ -17,9 +17,9 @@ public class Main {
 		
 		bookPrintService.saveListAsTxt();
 		
-		Book libro = new Book("1234", "titolo", "codiceA", "numPag", "anno", "codiceG", "codiceE");
+		//Book libro = new Book("1234", "titolo", "codiceA", "numPag", "anno", "codiceG", "codiceE");
 		
-		bookPrintService.saveAsTxt(libro);
+		//bookPrintService.saveAsTxt(libro);
 		
 		//AutoreDaoImpl impl = new AutoreDaoImpl();
 		
